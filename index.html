@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:spry="http://ns.adobe.com/spry">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>CultofJester.com</title>
+<link href="main.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style1 {color: #000000}
+.style3 {color: #999999}
+#apDiv2 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: 89px;
+	top: 374px;
+}
+
+-->
+</style>
+<script src="SpryAssets/SpryEffects.js" type="text/javascript"></script>
+<script src="SpryAssets/xpath.js" type="text/javascript"></script>
+<script src="SpryAssets/SpryData.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function MM_effectBlind(targetElement, duration, from, to, toggle)
+{
+	Spry.Effect.DoBlind(targetElement, {duration: duration, from: from, to: to, toggle: toggle});
+}
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var contentOpen  = false;
+var currentLayer = '';
+var previousLayer= '';
+
+function showContentLayer(id) {
+	previousLayer = currentLayer;
+	currentLayer  = id;
+
+	if (contentOpen) {
+		Spry.Effect.DoBlind(previousLayer,{duration: 1000,from: '100%',to: '0%',finish:showContentLayerFinish});
+	} else {
+		openCurrentLayer();
+	}
+}
+
+function showContentLayerFinish(element, effect) {
+	openCurrentLayer();
+}
+
+function openCurrentLayer() {
+	if (currentLayer != previousLayer) {
+//		document.getElementById(currentLayer).style['display']='block';
+		Spry.Effect.DoBlind(currentLayer,{duration: 1000,from: '0%',to: '100%'});
+		contentOpen = true;
+	} else if (contentOpen == false) {
+//		document.getElementById(currentLayer).style['display']='block';
+		Spry.Effect.DoBlind(currentLayer,{duration: 1000,from: '0%',to: '100%'});
+		contentOpen = true;
+	} else {
+		contentOpen = false;
+	}
+}
+var dsMusicBlog = new Spry.Data.XMLDataSet("blog.xml", "rss/channel/item");
+function MM_effectAppearFade(targetElement, duration, from, to, toggle)
+{
+	Spry.Effect.DoFade(targetElement, {duration: duration, from: from, to: to, toggle: toggle});
+}
+function MM_effectGrowShrink(targetElement, duration, from, to, toggle, referHeight, growFromCenter)
+{
+	Spry.Effect.DoGrow(targetElement, {duration: duration, from: from, to: to, toggle: toggle, referHeight: referHeight, growCenter: growFromCenter});
+}
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+function MM_effectHighlight(targetElement, duration, startColor, endColor, restoreColor, toggle)
+{
+	Spry.Effect.DoHighlight(targetElement, {duration: duration, from: startColor, to: endColor, restoreColor: restoreColor, toggle: toggle});
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_effectBlind('main-menu-wrapper', 1000, '0%', '100%', false);MM_effectAppearFade('blog-content', 1000, 0, 100, false)">
+
+<div id="container">
+	
+	<h1 id="header">cult<span class="style3">of</span>jester<span class="style1">&sect;</span></h1>
+	<div id="main-menu-wrapper">
+		<ul id="main-menu">
+			<li><a href="#" onclick="showContentLayer('about')">&rarr; about</a></li>
+			<li><a href="#" onclick="showContentLayer('coj')">&rarr; coj</a></li>
+			<li><a href="#" onclick="showContentLayer('deadagent')">&rarr; dead agent</a></li>
+			<li><a href="#" onclick="showContentLayer('livemixes')">&rarr; live mixes</a></li>
+			<li><a href="#" onclick="showContentLayer('radiopodcasts')">&rarr; radio podcasts</a></li>
+			<li><a href="#" onclick="showContentLayer('buystuff')">&rarr; buy stuff</a>	</li>
+		</ul>
+	</div>
+	<div id="content">
+		<div id="about" style="display:none">
+			<h2>About</h2>
+			
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus nisl dolor, pulvinar id, pharetra a, egestas nec, ante. Duis scelerisque eleifend metus. Sed non odio id odio varius rutrum. Pellentesque congue commodo lacus. In semper pede lacinia felis. Morbi mollis molestie lorem. Morbi suscipit libero. Quisque ut erat sit amet elit aliquam nonummy. Donec tortor. Aliquam gravida ullamcorper pede. Praesent eros. Sed fringilla ligula sed odio pharetra imperdiet. Integer aliquet quam vitae nibh. Nam pretium, neque non congue vulputate, odio odio vehicula augue, sit amet gravida pede massa ac lectus. Curabitur a libero vitae dui sagittis aliquet. Ut suscipit. Curabitur accumsan sem a urna. Ut elit pede, vulputate sed, feugiat quis, congue sed, lacus.</p>
+		</div>
+		<div id="coj" style="display:none">
+			<h2>COJ</h2>
+			
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus nisl dolor, pulvinar id, pharetra a, egestas nec, ante. Duis scelerisque eleifend metus. Sed non odio id odio varius rutrum. Pellentesque congue commodo lacus. In semper pede lacinia felis. Morbi mollis molestie lorem. Morbi suscipit libero. Quisque ut erat sit amet elit aliquam nonummy. Donec tortor. Aliquam gravida ullamcorper pede. Praesent eros. Sed fringilla ligula sed odio pharetra imperdiet. Integer aliquet quam vitae nibh. Nam pretium, neque non congue vulputate, odio odio vehicula augue, sit amet gravida pede massa ac lectus. Curabitur a libero vitae dui sagittis aliquet. Ut suscipit. Curabitur accumsan sem a urna. Ut elit pede, vulputate sed, feugiat quis, congue sed, lacus.</p>
+		</div>
+		<div id="deadagent" style="display:none">
+			<h2>Dead Agent</h2>
+			
+			<p>The instrumental alter-ego of COJ, Dead Agent is a mashup of breakbeat, hip-hop, and electronics.  Remixes of artists such as <a href="http://www.discogs.com/artist/Deitiphobia">Deitiphobia</a> and <a href="http://www.myspace.com/regenerator">Regenerator</a> highlighted the early Dead Agent work, while more recent tracks have been original compositions.</p>
+			
+			<h3>Sample tracks</h3>
+			<ul>
+				<li><a href="audio/Deitiphobia-Retrofit_(dead_agent_remix).mp3">Deitiphoboa - Retrofit (Dead Agent Remix)</a> (5:10)</li>
+				<li><a href="audio/Dead_Agent-Harbinger.mp3">Dead Agent - &quot;Harbinger&quot;</a> (7:03)</li>
+				<li><a href="audio/Dead_Agent-Lexicon.mp3">Dead Agent - &quot;Lexicon&quot;</a> (4:27)</li>
+			</ul>
+			<p>&nbsp;</p>
+		</div>
+		<div id="livemixes" style="display:none">
+			<h2>Live Mixes</h2>
+			
+			<ul>
+				<li><a href="http://www.cultofjester.com/mp3s/Live%20Demo%20Mix%202005-04-01.mp3">&rarr; Live Demo Mix 2004-04-01 (75MB 192kbps mp3)</a><br />
+					<div id="mix2004-04-01" class="details">
+						<strong>Track List:</strong><br />
+						<ol>
+							<li>Icon of Coil &ndash; &#8220;Floorkiller (2004)&#8221;</li>
+							<li>Combichrist &ndash; &#8220;Enjoy the Abuse&#8221;</li>
+							<li>Cubanate &ndash; &#8220;Oxyacetylene&#8221;</li>
+							<li>C&ndash;Tec &ndash; &#8220;Brutal&#8221;</li>
+							<li>Cult of Jester &ndash; &#8220;.44 Caliber (ironvsiron remix)&#8221;</li>
+							<li>Deitiphobia &ndash; &#8220;Retrofit (Dead Agent remix)&#8221;</li>
+							<li>Nitzer Ebb &ndash; &#8220;Getting Closer&#8221;</li>
+							<li>Nitzer Ebb &ndash; &#8220;Join in the Chant&#8221;</li>
+							<li>Frontline Assembly &ndash; &#8220;Mindphaser&#8221;</li>
+							<li>Frontline Assembly &ndash; &#8220;Sado-Masochist&#8221;</li>
+							<li>ohGr &ndash; &#8220;Lusid&#8221;</li>
+							<li>Prodigy &ndash; &#8220;Girls&#8221;</li>
+							<li>Voxis &ndash; &#8220;You Spin Me Right Round&#8221;</li>
+						</ol>
+						I also used loops from these additional songs:
+						<ol>
+							<li>Implant &ndash; &#8220;Drugs vs Violent&#8221;</li>
+							<li>VNV Nation &ndash; &#8220;Circling Overland&#8221;</li>
+							<li>VNV Nation &ndash; &#8220;Kingdom (restoration)&#8221;</li>
+						</ol>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div id="radiopodcasts" style="display:none">
+			<h2>Radio Podcasts</h2>
+			<ul>
+				<li><a href="http://funkatrondigital.com/media/PSR_Funkatron_Show-20070303.mp3">&rarr; Funkatron Radio Show 2007-03-03</a></li>
+				<li><a href="http://funkatrondigital.com/media/PSR_Funkatron_Show-20061130.mp3">&rarr; Funkatron Radio Show 2006-11-30</a></li>
+				<li><a href="http://funkatrondigital.com/media/PSR_Funkatron_Show-20061109.mp3">&rarr; Funkatron Radio Show 2006-11-09</a></li>
+				<li><a href="http://funkatrondigital.com/media/PSR_Funkatron_Show-20061026.mp3">&rarr; Funkatron Radio Show 2006-10-26</a></li>
+			</ul>
+			
+		</div>
+		<div id="buystuff" style="display:none">
+			<h2>Buy Stuff</h2>
+
+			<div class="album">
+				<img src="images/golgo_cover_small.jpg" alt="Golgo 13 cover art" width="200" height="200" />
+				<h4>Cult of Jester &ndash; <em>Golgo 13</em></h4>
+				<a class="buyitem" href="http://www.amazon.com/gp/product/B000LUOVHC/002-3140808-9860003?ie=UTF8&seller=A1X72K3ZMNFOI1&sn=funkatron-productions"><span class="description">Buy CD</span><span class="price">$5<span class="s-h">+s/h</span></span></a>
+				<a class="buyitem" href="https://files.dreamhost.com/15980/Cult_of_Jester_-_Golgo_13-MP3.zip"><span class="description">Buy  MP3s</span><span class="price">$5</span></a>
+				<br class="clearfloat" />
+			</div>
+	
+
+			<div class="album">
+				<img src="images/funkatron_cover_web_small.png" alt="Funkatron cover art" width="200" height="200" /><h4>Cult of Jester &ndash; <em>Funkatron</em></h4>
+				<a class="buyitem" href="http://www.christiandiscs.com/product.php?productid=27096&cat=0&page=1"><span class="description">Buy CD</span><span class="price">$9.99<span class="s-h">+s/h</span></span></a>
+				<!--
+<a class="buyitem" href="https://files.dreamhost.com/15980/Cult_of_Jester_-_Golgo_13-MP3.zip"><span class="description">Buy  MP3s</span><span class="price">$5</span></a>
+-->
+				<br class="clearfloat" />
+				
+			</div>
+		</div>
+	</div>
+	
+	<div id="footer">
+		<div id="blog">
+			<h2><a id="blog-disclosure">&rarr; blog</a></h2>
+			<div id="blog-content">
+				<div id="lastfew" spry:region="dsMusicBlog" style="visibility:inherit">
+					<ul spry:repeat="dsMusicBlog" style="visibility:inherit">
+						<li><a spry:setrow="dsMusicBlog"  onclick="MM_effectAppearFade('newest', 1000, 0, 100, false)">&rarr; {title}</a></li>
+					</ul>
+				</div>
+				<div id="newest" style="visibility:inherit">
+					<div spry:detailregion="dsMusicBlog" style="visibility:inherit">
+						<div spry:state="loading">Loading...</div>
+						<div spry:state="ready">
+							<h3 class="title">{title}</h3>
+							<div class="date">{pubDate}</div>
+							<div class="content">{content:encoded}</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br class="clearfloat" />
+		<div id="contact"><a href="http://virb.com/cultofjester">&rarr; COJ at Virb</a> &nbsp; <a href="http://www.myspace.com/cultofjester">&rarr; COJ at Myspace</a> &nbsp; <a href="mailto:coj@cultofjester.com">&rarr; coj@cultofjester.com</a></div>
+	</div>
+</div>
+</body>
+</html>

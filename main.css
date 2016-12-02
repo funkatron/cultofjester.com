@@ -1,0 +1,277 @@
+@charset "UTF-8";
+body {
+	font-family: "News Gothic MT", Tahoma, sans-serif;
+	color: #666666;
+	padding: 0px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	text-align: center;
+	background-color:#234F6B;
+}
+
+/*
+#ABA75B
+#521B1B
+#9E4444
+#234F6B
+#59B2EB
+
+*/
+
+a {
+	cursor:pointer;
+}
+
+
+#content ul li, #newest ul li {
+	list-style-type: square;
+}
+
+#main-menu {
+	list-style-type: none;
+	display: block;
+	width: 100%;
+	padding-top: 0.5em;
+	padding-right: 0px;
+	padding-bottom: 2em;
+	padding-left: 0px;
+	border-top-width: 0px;
+	border-right-width: 2px;
+	border-bottom-width: 0px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+	margin: 0px;
+	text-align: center;
+	font-variant: normal;
+	font-size: 0.9em;
+	background-color: #202020;
+	z-index: 2;
+}
+
+#footer {
+	border-top-width: 4px;
+	border-top-style: double;
+	border-top-color: #666666;
+	padding:0.5em;
+	background-color:#101010;
+	color:#FFFFFF;
+	font-variant: normal;
+	font-size: 0.9em;
+	text-align:left;
+}
+
+
+
+#container {
+	padding: 0em;
+	width: 750px;
+	margin-top: 0em;
+	margin-right: auto;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	background:#FFFFFF;
+}
+#content {
+	position: relative;
+	line-height: 1.7em;
+	letter-spacing: 0em;
+	font-family: Palatino, Palatino MS, Georgia, "Times New Roman", Times, serif;
+	color: #333333;
+	text-align: left;
+	width:600px;
+	left:75px;
+	z-index: 2;
+}
+#content p {
+	margin-top: 0px;
+}
+
+#content a, #content a:visited {
+	color:#521B1B;
+	padding-bottom:1px;
+	border-bottom:1px dotted #521B1B;
+	text-decoration:none;
+}
+#main-menu li a, #footer a {
+	color: #9E4444;
+	text-decoration: none;
+	padding-bottom: 2px;
+}
+#main-menu li a {
+	width:2em;
+	height:2em;
+	padding-top: 0.5em;
+	padding-right: 2em;
+	padding-bottom: 2em;
+	padding-left: 0.5em;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #666666;
+}
+
+#main-menu li {
+	display: inline;
+	border: 0px solid #666666;
+	font-size: 1em;
+	font-weight: normal;
+	font-style: normal;
+	margin:0px;
+	text-align: center;
+	
+}
+#container  #main-menu li a:hover {
+	background-color: #101010;
+}
+#header {
+	background-color: #521B1B;
+	margin: 0px;
+	padding: 0.2em;
+	font-weight: bold;
+	font-style: normal;
+	letter-spacing: 0.1em;
+	text-align: right;
+	color: #FFFFFF;
+	font-size: 48pt;
+	font-family: "News Gothic MT", Tahoma, sans-serif;
+	border-top-width: 20px;
+	border-top-style: solid;
+	border-top-color: #101010;
+	border-right-color: #000000;
+	border-bottom-color: #666666;
+	border-left-color: #000000;
+	border-bottom-width: 4px;
+	border-bottom-style: double;
+}
+
+/*#about { height:0px; display:none; }
+#coj { height:0px; display:none; }
+#deadagent { height:0px; display:none; }
+#livemixes { height:0px; display:none; }
+#radiopodcasts { height:0px; display:none; }
+#buystuff { height:0px; display:none; }*/
+
+
+#blog h2 {
+	font-size:1em;
+	font-weight:normal;
+	border-bottom:1px solid #666;
+	padding-bottom:.2em;
+	
+}
+
+#blog {
+	text-align: left;
+	font-size:.9em;
+	padding:.5em;
+}
+
+#blog-content {
+	/*border-bottom:1px solid #666;*/
+}
+
+#blog-content #newest {
+	font-weight:normal;
+	width:500px;
+	line-height:1.5em;
+	margin-right:220px;
+	overflow:auto;
+}
+
+#blog-content #lastfew {
+	float:right;
+	width:190px;
+	margin-left:10px;
+	padding-left:10px;
+	border-left:1px solid #444;
+	font-size:.8em;
+}
+
+#blog-content #lastfew ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+#blog-content #lastfew li {
+	margin-bottom:1em;
+	
+}
+.clearfloat {
+	clear:both;
+	border-bottom:1px solid #666;
+}
+.feedflare {
+	display:none;
+}
+#contact {
+	clear:both;
+	border-top:4px double #666;
+	text-align: center;
+	padding-top:.5em;
+}
+
+.album {
+	padding: 10px;
+	border-top-width: 4px;
+	border-top-style: solid;
+	border-top-color: #333333;
+	border-bottom-color: #333333;
+	margin-bottom: 1em;
+	background-color: #ABA75B;
+	font-size:.9em;
+}
+
+.buyitem {
+	background-color: #59B2EB;
+	margin: 5px;
+	padding: 5px;
+	height: 100px;
+	width: 100px;
+	border: 4px solid #333333 !important;
+	float: left;
+	line-height: 1.7em;
+}
+
+.buyitem:hover {
+	background-color: #FFEEEE;
+	border: 4px solid #000000;
+	text-decoration:underline !important;
+}
+
+.buyitem .price {
+	display: block;
+	text-align: center;
+	font-size: 2.5em;
+	color: #000000;
+}
+
+.price .s-h {
+	font-size:.5em;
+	display:block;
+}
+
+.buyitem .description {
+	display: block;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.album h4 {
+	margin: 0px;
+	font-size:1.1em;
+}
+
+.album img {
+	float: left;
+	margin-right: 1em;
+}
+

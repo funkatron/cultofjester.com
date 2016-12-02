@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2full.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><!-- generator="wordpress/2.1.3" --><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>**** FUNKABLOG 64 BASIC V2 ****</title>
+	<link>http://blog.funkatron.com</link>
+	<description>64K RAM SYSTEM  38911 BASIC BYTES FREE</description>
+	<pubDate>Thu, 26 Apr 2007 17:11:43 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.1.3</generator>
+	<language>en</language>
+			<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.feedburner.com/funkablog" type="application/rss+xml" /><feedburner:emailServiceId>676092</feedburner:emailServiceId><feedburner:feedburnerHostname>http://www.feedburner.com</feedburner:feedburnerHostname><item><title>Links for 2007-05-02 [del.icio.us]</title><link>http://feeds.feedburner.com/~r/funkablog/~3/113788847/funka7ron</link><pubDate>Thu, 03 May 2007 00:00:00 -0500</pubDate><guid isPermaLink="false">http://del.icio.us/funka7ron#2007-05-02</guid><content:encoded><![CDATA[<ul>
+<li><a href="http://www.theonion.com/content/news/this_american_life_completes">This American Life Completes Documentation Of Liberal, Upper-Middle-Class Existence | The Onion - America's Finest News Source</a><br/>
+&amp;quot;the popular radio show has successfully isolated all 7,442 known characteristics of college graduates who earn between $62,500 and $125,000 per year and feel strongly that something should be done about global warming.&amp;quot;</li>
+<li><a href="http://lifehacker.com/software/download-of-the-day/clutter-cloak-desktop-distraction-blocker-windows-256980.php">Clutter Cloak desktop distraction blocker (Windows)</a></li>
+<li><a href="http://www.innovations-report.de/html/berichte/studien/bericht-83419.html">Researchers find ceiling height can affect how a person thinks, feels and acts</a><br/>
+&ldquo;When a person is in a space with a 10-foot ceiling, they will tend to think more freely, more abstractly [...] whereas a person in a room with an 8-foot ceiling will be more likely to focus on specifics.&rdquo;</li>
+<li><a href="http://www.rorsecurity.info/2007/05/01/cross-site-scripting-user-agent-injection-attack-methods/">Cross-Site Scripting (User Agent Injection) Attack Methods &raquo; Ruby on Rails Security Blog</a><br/>
+Rails-specific info on user agent attacks</li>
+<li><a href="http://www.theonion.com/content/node/61285?utm_source=onion_rss_daily">If Someone Wanted To Publish My Blog Entries For Money, I Wouldn't Say No | The Onion - America's Finest News Source</a><br/>
+&amp;quot;I don't write my blog to entertain anyone else, especially not some uptight Esquire editor. But if an Esquire editor is crazy about my work, and wants to run a three-page spread on my hilarious reviews of horrible movies, who am I to tell him no? &amp;quot;</li>
+<li><a href="http://www.infosecwriters.com/texts.php?op=display&id=556">Top 10 Configuration Security Vulnerabilities : Part One</a><br/>
+&amp;quot;Incorrectly configured Web-based applications can be just as dangerous as those that have been incorrectly coded.&amp;quot;</li>
+<li><a href="http://www-128.ibm.com/developerworks/library/x-semweb.html">Bring existing data to the Semantic Web</a><br/>
+&amp;quot;This article introduces core Semantic Web concepts and standards and explains how to expose an LDAP directory as a service that Semantic Web applications can consume using the open source SquirrelRDF utility.&amp;quot;</li>
+<li><a href="http://www.ddj.com/dept/webservices/199203087">Dr. Dobb's | AJAX: Selecting the Framework that Fits | May 1, 2007</a></li>
+<li><a href="http://www-128.ibm.com/developerworks/library/x-tipsearcheng.html">Tip: Use Web search engines to locate XML</a><br/>
+Locate XML files with little-known features of Web search engines. Find XML feeds for public services, examples of particular XML formats, and more.</li>
+<li><a href="http://www.ddj.com/dept/windows/199201603?pgno=1">Dr. Dobb's | What Is Drupal?</a><br/>
+A detailed technical breakdown of the Drupal CMS</li>
+<li><a href="http://www.roscripts.com/Best_CSS_tools_of_the_month-130.html">Best CSS tools of the month</a></li>
+</ul>]]></content:encoded><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.theonion.com/content/news/this_american_life_completes"&gt;This American Life Completes Documentation Of Liberal, Upper-Middle-Class Existence | The Onion - America's Finest News Source&lt;/a&gt;&lt;br/&gt;
+&amp;amp;quot;the popular radio show has successfully isolated all 7,442 known characteristics of college graduates who earn between $62,500 and $125,000 per year and feel strongly that something should be done about global warming.&amp;amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lifehacker.com/software/download-of-the-day/clutter-cloak-desktop-distraction-blocker-windows-256980.php"&gt;Clutter Cloak desktop distraction blocker (Windows)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.innovations-report.de/html/berichte/studien/bericht-83419.html"&gt;Researchers find ceiling height can affect how a person thinks, feels and acts&lt;/a&gt;&lt;br/&gt;
+&amp;ldquo;When a person is in a space with a 10-foot ceiling, they will tend to think more freely, more abstractly [...] whereas a person in a room with an 8-foot ceiling will be more likely to focus on specifics.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rorsecurity.info/2007/05/01/cross-site-scripting-user-agent-injection-attack-methods/"&gt;Cross-Site Scripting (User Agent Injection) Attack Methods &amp;raquo; Ruby on Rails Security Blog&lt;/a&gt;&lt;br/&gt;
+Rails-specific info on user agent attacks&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.theonion.com/content/node/61285?utm_source=onion_rss_daily"&gt;If Someone Wanted To Publish My Blog Entries For Money, I Wouldn't Say No | The Onion - America's Finest News Source&lt;/a&gt;&lt;br/&gt;
+&amp;amp;quot;I don't write my blog to entertain anyone else, especially not some uptight Esquire editor. But if an Esquire editor is crazy about my work, and wants to run a three-page spread on my hilarious reviews of horrible movies, who am I to tell him no? &amp;amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infosecwriters.com/texts.php?op=display&amp;id=556"&gt;Top 10 Configuration Security Vulnerabilities : Part One&lt;/a&gt;&lt;br/&gt;
+&amp;amp;quot;Incorrectly configured Web-based applications can be just as dangerous as those that have been incorrectly coded.&amp;amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www-128.ibm.com/developerworks/library/x-semweb.html"&gt;Bring existing data to the Semantic Web&lt;/a&gt;&lt;br/&gt;
+&amp;amp;quot;This article introduces core Semantic Web concepts and standards and explains how to expose an LDAP directory as a service that Semantic Web applications can consume using the open source SquirrelRDF utility.&amp;amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ddj.com/dept/webservices/199203087"&gt;Dr. Dobb's | AJAX: Selecting the Framework that Fits | May 1, 2007&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www-128.ibm.com/developerworks/library/x-tipsearcheng.html"&gt;Tip: Use Web search engines to locate XML&lt;/a&gt;&lt;br/&gt;
+Locate XML files with little-known features of Web search engines. Find XML feeds for public services, examples of particular XML formats, and more.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ddj.com/dept/windows/199201603?pgno=1"&gt;Dr. Dobb's | What Is Drupal?&lt;/a&gt;&lt;br/&gt;
+A detailed technical breakdown of the Drupal CMS&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.roscripts.com/Best_CSS_tools_of_the_month-130.html"&gt;Best CSS tools of the month&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><feedburner:origLink>http://del.icio.us/funka7ron#2007-05-02</feedburner:origLink></item><item><title>Links for 2007-05-01 [del.icio.us]</title><link>http://feeds.feedburner.com/~r/funkablog/~3/113523164/funka7ron</link><pubDate>Wed, 02 May 2007 00:00:00 -0500</pubDate><guid isPermaLink="false">http://del.icio.us/funka7ron#2007-05-01</guid><content:encoded><![CDATA[<ul>
+<li><a href="http://blogs.msdn.com/tims/archive/2007/04/30/silverlight-screencasts.aspx">Tim Sneath : Silverlight Screencasts</a></li>
+</ul>]]></content:encoded><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blogs.msdn.com/tims/archive/2007/04/30/silverlight-screencasts.aspx"&gt;Tim Sneath : Silverlight Screencasts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><feedburner:origLink>http://del.icio.us/funka7ron#2007-05-01</feedburner:origLink></item><item><title>Links for 2007-04-30 [del.icio.us]</title><link>http://feeds.feedburner.com/~r/funkablog/~3/113261025/funka7ron</link><pubDate>Tue, 01 May 2007 00:00:00 -0500</pubDate><guid isPermaLink="false">http://del.icio.us/funka7ron#2007-04-30</guid><content:encoded><![CDATA[<ul>
+<li><a href="http://projects.cyberlot.net/trac/jqpie/wiki/WikiStart">jQPie (Jquery PHP interface extension) - Trac</a></li>
+<li><a href="http://www.igvita.com/blog/2007/04/27/web-security-with-ingress-filtering/">Web Security With Ingress Filtering - igvita.com</a><br/>
+rails-specific discussion of techniques to evade xss and sql injection attacks</li>
+</ul>]]></content:encoded><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://projects.cyberlot.net/trac/jqpie/wiki/WikiStart"&gt;jQPie (Jquery PHP interface extension) - Trac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.igvita.com/blog/2007/04/27/web-security-with-ingress-filtering/"&gt;Web Security With Ingress Filtering - igvita.com&lt;/a&gt;&lt;br/&gt;
+rails-specific discussion of techniques to evade xss and sql injection attacks&lt;/li&gt;
+&lt;/ul&gt;</description><feedburner:origLink>http://del.icio.us/funka7ron#2007-04-30</feedburner:origLink></item><item><title>Links for 2007-04-27 [del.icio.us]</title><link>http://feeds.feedburner.com/~r/funkablog/~3/112601847/funka7ron</link><pubDate>Sat, 28 Apr 2007 00:00:00 -0500</pubDate><guid isPermaLink="false">http://del.icio.us/funka7ron#2007-04-27</guid><content:encoded><![CDATA[<ul>
+<li><a href="http://www.upsdell.com/BrowserNews/res_fontsamp.htm">Browser News: Resources - Font Samples</a><br/>
+A good reference for &amp;quot;safe&amp;quot; fonts to use in web design</li>
+</ul>]]></content:encoded><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.upsdell.com/BrowserNews/res_fontsamp.htm"&gt;Browser News: Resources - Font Samples&lt;/a&gt;&lt;br/&gt;
+A good reference for &amp;amp;quot;safe&amp;amp;quot; fonts to use in web design&lt;/li&gt;
+&lt;/ul&gt;</description><feedburner:origLink>http://del.icio.us/funka7ron#2007-04-27</feedburner:origLink></item><item><title>Links for 2007-04-26 [del.icio.us]</title><link>http://feeds.feedburner.com/~r/funkablog/~3/112337670/funka7ron</link><pubDate>Fri, 27 Apr 2007 00:00:00 -0500</pubDate><guid isPermaLink="false">http://del.icio.us/funka7ron#2007-04-26</guid><content:encoded><![CDATA[<ul>
+<li><a href="http://www.pseudocoder.com/archives/2007/04/24/how-to-really-use-xdebug-to-speed-up-your-app/">How To Really Use Xdebug To Speed Up Your App</a></li>
+<li><a href="http://kissmesuzy.blogspot.com/2007/04/ksk-mock-draft-cartoon-characters-with.html">Cartoon Characters with Whom We'd Like to Engage in Sexual Intercourse</a><br/>
+Who didn't want to bang Amy Wong?</li>
+<li><a href="http://noonebelongsheremorethanyou.com/">No one belongs here more than you. Stories by Miranda July</a><br/>
+One of the most original examples of web design I've come across in a while.  I hope it sells her lots of books.</li>
+<li><a href="http://consumerist.com/consumer/customer-service/the-most-excruciatingly-painful-yet-typical-customer-service-call-ever-255339.php">The Most Excruciatingly Painful, Yet Typical, Customer Service Call Ever - Consumerist</a><br/>
+Delightful</li>
+<li><a href="http://www.onlamp.com/pub/a/php/2007/04/26/code-as-data-reflection-in-php.html?CMP=OTC-6YE827253101&ATT=Code+As+Data+Reflection+in+PHP">Code As Data: Reflection in PHP</a></li>
+</ul>]]></content:encoded><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.pseudocoder.com/archives/2007/04/24/how-to-really-use-xdebug-to-speed-up-your-app/"&gt;How To Really Use Xdebug To Speed Up Your App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kissmesuzy.blogspot.com/2007/04/ksk-mock-draft-cartoon-characters-with.html"&gt;Cartoon Characters with Whom We'd Like to Engage in Sexual Intercourse&lt;/a&gt;&lt;br/&gt;
+Who didn't want to bang Amy Wong?&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://noonebelongsheremorethanyou.com/"&gt;No one belongs here more than you. Stories by Miranda July&lt;/a&gt;&lt;br/&gt;
+One of the most original examples of web design I've come across in a while.  I hope it sells her lots of books.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://consumerist.com/consumer/customer-service/the-most-excruciatingly-painful-yet-typical-customer-service-call-ever-255339.php"&gt;The Most Excruciatingly Painful, Yet Typical, Customer Service Call Ever - Consumerist&lt;/a&gt;&lt;br/&gt;
+Delightful&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.onlamp.com/pub/a/php/2007/04/26/code-as-data-reflection-in-php.html?CMP=OTC-6YE827253101&amp;ATT=Code+As+Data+Reflection+in+PHP"&gt;Code As Data: Reflection in PHP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><feedburner:origLink>http://del.icio.us/funka7ron#2007-04-26</feedburner:origLink></item><item>
+		<title>I'm interviewed on the Pro::PHP Podcast</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/112193403/</link>
+		<comments>http://blog.funkatron.com/archives/general/im-interviewed-on-the-prophp-podcast/#comments</comments>
+		<pubDate>Thu, 26 Apr 2007 16:51:09 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<category><![CDATA[PHP]]></category>
+
+		<category><![CDATA[The Web Problem]]></category>
+
+		<category><![CDATA[InfoSec]]></category>
+
+		<category><![CDATA[Development]]></category>
+
+		<category><![CDATA[phpsecinfo]]></category>
+
+		<guid isPermaLink="false">http://blog.funkatron.com/archives/general/im-interviewed-on-the-prophp-podcast/</guid>
+		<description><![CDATA[
+Paul Reinheimer interviewed me for the Pro::PHP Podcast a couple weeks ago, and the podcast was just posted today. If you&#8217;re interested in hearing me ramble about secure PHP development, download it or subscribe to the feed.
+I say &#8220;uh&#8221; and &#8220;erm&#8221; a lot, which makes me sounds like a real pro, lemme tell ya.
+Tags: php, [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://podcast.phparch.com/podcast/audio/20070426.mp3"><img src="http://blog.funkatron.com/wp-content/uploads/pro-php-podcast-me.png" border="0" height="239" width="275" alt="Man, this was a mistake" title="Man, this was a mistake" /></a></p>
+<p>Paul Reinheimer interviewed me for <a href="http://podcast.phparch.com/main/index.php/main">the Pro::PHP Podcast</a> a couple weeks ago, and the podcast was just posted today. If you&#8217;re interested in hearing me ramble about secure PHP development, <a href="http://podcast.phparch.com/podcast/audio/20070426.mp3">download it</a> or <a href="http://podcast.phparch.com/podcast/rss/index.xml">subscribe to the feed</a>.</p>
+<p>I say &#8220;uh&#8221; and &#8220;erm&#8221; a lot, which makes me sounds like a real pro, lemme tell ya.</p>
+<div class="tags"><strong>Tags:</strong> <a href="http://technorati.com/tag/php" rel="tag">php</a>, <a href="http://technorati.com/tag/security" rel="tag"> security</a>, <a href="http://technorati.com/tag/interview" rel="tag"> interview</a>, <a href="http://technorati.com/tag/podcast" rel="tag"> podcast</a></div>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=9U6kmlin"><img src="http://feeds.feedburner.com/~f/funkablog?i=9U6kmlin" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=15AscKY8"><img src="http://feeds.feedburner.com/~f/funkablog?i=15AscKY8" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=4SUHkAvT"><img src="http://feeds.feedburner.com/~f/funkablog?i=4SUHkAvT" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=M2tinPSd"><img src="http://feeds.feedburner.com/~f/funkablog?i=M2tinPSd" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/im-interviewed-on-the-prophp-podcast/feed/</wfw:commentRss>
+
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/im-interviewed-on-the-prophp-podcast/</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/funkablog/~5/112193404/20070426.mp3" length="41029983" type="audio/mp3" /><feedburner:origEnclosureLink>http://podcast.phparch.com/podcast/audio/20070426.mp3</feedburner:origEnclosureLink></item>
+		<item><title>Links for 2007-04-24 [del.icio.us]</title><link>http://feeds.feedburner.com/~r/funkablog/~3/111759988/funka7ron</link><pubDate>Wed, 25 Apr 2007 00:00:00 -0500</pubDate><guid isPermaLink="false">http://del.icio.us/funka7ron#2007-04-24</guid><content:encoded><![CDATA[<ul>
+<li><a href="http://www.zeldman.com/2007/04/19/women-in-web-design/">Women in web design: just the stats</a><br/>
+&amp;quot;The underrepresentation of women and minorities in the information technology workforce is like the weather: everybody talks about it, but nobody does anything.&amp;quot;</li>
+<li><a href="http://seifi.org/node/477">FireBug Tips and Tricks</a></li>
+<li><a href="http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown">Python up, Ruby down: If that runtime don't work, then its bound to drizzown</a><br/>
+&amp;quot;I am not making any claims of Python having greater productivity than Ruby in the development cycle. I am claiming two things, though:
+1) Python was very productive, despite having never used it before, and
+2) The end result actually fucking worked&amp;quot;</li>
+<li><a href="http://www.oreillynet.com/onlamp/blog/2007/04/the_virtues_of_monoculture.html">The Virtues of Monoculture - O'Reilly ONLamp Blog</a><br/>
+James Turner compares the tyranny of choice offered in the OSS community to Microsoft's monoculture, and finds some advantages in fewer choices</li>
+<li><a href="http://feeds.downloadsquad.com/~r/weblogsinc/downloadsquad/~3/111619988/">9 ways ColdFusion 8 will rule web development</a></li>
+<li><a href="http://betterexplained.com/articles/the-quick-guide-to-guids/">The Quick Guide to GUIDs</a></li>
+<li><a href="http://www.omnigroup.com/applications/omnifocus/content.php">OmniFocus</a><br/>
+Early info on OmniFocus, a new &amp;quot;GTD&amp;quot; app from OmniGroup</li>
+<li><a href="http://feeds.feedburner.com/~r/43Folders/~3/111339756/">Some handy Mail.app Smart Mailboxes</a></li>
+<li><a href="http://codeigniter.com/forums/viewthread/49484/">FORGE: Form Generation Library | CodeIgniter Forums</a></li>
+</ul>]]></content:encoded><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.zeldman.com/2007/04/19/women-in-web-design/"&gt;Women in web design: just the stats&lt;/a&gt;&lt;br/&gt;
+&amp;amp;quot;The underrepresentation of women and minorities in the information technology workforce is like the weather: everybody talks about it, but nobody does anything.&amp;amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://seifi.org/node/477"&gt;FireBug Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown"&gt;Python up, Ruby down: If that runtime don't work, then its bound to drizzown&lt;/a&gt;&lt;br/&gt;
+&amp;amp;quot;I am not making any claims of Python having greater productivity than Ruby in the development cycle. I am claiming two things, though:
+1) Python was very productive, despite having never used it before, and
+2) The end result actually fucking worked&amp;amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.oreillynet.com/onlamp/blog/2007/04/the_virtues_of_monoculture.html"&gt;The Virtues of Monoculture - O'Reilly ONLamp Blog&lt;/a&gt;&lt;br/&gt;
+James Turner compares the tyranny of choice offered in the OSS community to Microsoft's monoculture, and finds some advantages in fewer choices&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://feeds.downloadsquad.com/~r/weblogsinc/downloadsquad/~3/111619988/"&gt;9 ways ColdFusion 8 will rule web development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://betterexplained.com/articles/the-quick-guide-to-guids/"&gt;The Quick Guide to GUIDs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.omnigroup.com/applications/omnifocus/content.php"&gt;OmniFocus&lt;/a&gt;&lt;br/&gt;
+Early info on OmniFocus, a new &amp;amp;quot;GTD&amp;amp;quot; app from OmniGroup&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://feeds.feedburner.com/~r/43Folders/~3/111339756/"&gt;Some handy Mail.app Smart Mailboxes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://codeigniter.com/forums/viewthread/49484/"&gt;FORGE: Form Generation Library | CodeIgniter Forums&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><feedburner:origLink>http://del.icio.us/funka7ron#2007-04-24</feedburner:origLink></item><item>
+		<title>Review of Shiira 2.0</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/111660124/</link>
+		<comments>http://blog.funkatron.com/archives/general/review-of-shiira-20-2/#comments</comments>
+		<pubDate>Tue, 24 Apr 2007 19:10:27 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<category><![CDATA[OS X]]></category>
+
+		<category><![CDATA[The Web Problem]]></category>
+
+		<guid isPermaLink="false">http://blog.funkatron.com/archives/os-x/review-of-shiira-20/</guid>
+		<description><![CDATA[I wrote up a short review of the 2.0 release of the Siira web browser for OS X.  Check it out over at Ars Technica.
+]]></description>
+			<content:encoded><![CDATA[<p><img src="http://blog.funkatron.com/wp-content/uploads/shiira-icon.png" width="122" height="129" alt="Shiira Icon" class="imageframe" style="float:right;" />I wrote up a short review of the 2.0 release of the Siira web browser for OS X.  Check it out over at <a href="http://arstechnica.com/journals/apple.ars/2007/04/24/minireview-shiira-2-0-for-os-x-not-ready-for-primetime">Ars Technica</a>.</p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=rV5LfMQu"><img src="http://feeds.feedburner.com/~f/funkablog?i=rV5LfMQu" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=Qu9we7t1"><img src="http://feeds.feedburner.com/~f/funkablog?i=Qu9we7t1" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=aF2EPBTd"><img src="http://feeds.feedburner.com/~f/funkablog?i=aF2EPBTd" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=B4ZrFiej"><img src="http://feeds.feedburner.com/~f/funkablog?i=B4ZrFiej" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/review-of-shiira-20-2/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/review-of-shiira-20-2/</feedburner:origLink></item>
+		<item>
+		<title>Web designers and developers: Take the 2007 Web Design Survey</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/111660125/</link>
+		<comments>http://blog.funkatron.com/archives/general/web-designers-and-developers-take-the-2007-web-design-survey-2/#comments</comments>
+		<pubDate>Tue, 24 Apr 2007 16:18:20 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<category><![CDATA[PHP]]></category>
+
+		<category><![CDATA[The Web Problem]]></category>
+
+		<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://blog.funkatron.com/archives/php/web-designers-and-developers-take-the-2007-web-design-survey/</guid>
+		<description><![CDATA[I think this is a fabulous idea, and encourage anyone who does web work to participate.
+
+Designers, developers, project managers. Writers and editors. Information architects and usability specialists. People who make websites have been at it for more than a dozen years, yet almost nothing is known, statistically, about our profession. Who are we? Where do [...]]]></description>
+			<content:encoded><![CDATA[<p>I think this is a fabulous idea, and encourage anyone who does web work to participate.</p>
+<p><a href="http://alistapart.com/articles/webdesignsurvey"><img src="http://blog.funkatron.com/wp-content/i-took-the-2007-survey.gif" alt="A List Apart 2007 Web Design Survey" title="A List Apart 2007 Web Design Survey" /></a></p>
+<blockquote><p>Designers, developers, project managers. Writers and editors. Information architects and usability specialists. People who make websites have been at it for more than a dozen years, yet almost nothing is known, statistically, about our profession. Who are we? Where do we live? What are our titles, our skills, our educational backgrounds? Where and with whom do we work? What do we earn? What do we value?</p>
+<p>It&#8217;s time we learned the answers to these and other questions about web design. And nobody is better qualified than the readers of <cite>A List Apart</cite> to provide the answers. Participate in <a href="http://aneventapart.com/webdesignsurvey/survey.php?sid=2">our first annual survey</a> to increase knowledge of web design and boost respect for the profession. Selected participants, chosen by random drawing, will win one free ticket to <a href="http://www.aneventapart.com/">An Event Apart</a> event held in the continental U.S.; an Apple <a href="http://www.apple.com/ipod/ipod.html">30GB video iPod</a>, an Event Apart jump drive, or a funky <a href="http://www.alistapart.com/store/"><cite>A List Apart</cite> T-shirt</a>.<sup>1</sup></p></blockquote>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=UodlDOd7"><img src="http://feeds.feedburner.com/~f/funkablog?i=UodlDOd7" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=kdAWINoG"><img src="http://feeds.feedburner.com/~f/funkablog?i=kdAWINoG" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=8wqZnGpe"><img src="http://feeds.feedburner.com/~f/funkablog?i=8wqZnGpe" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=PLTxmqBW"><img src="http://feeds.feedburner.com/~f/funkablog?i=PLTxmqBW" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/web-designers-and-developers-take-the-2007-web-design-survey-2/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/web-designers-and-developers-take-the-2007-web-design-survey-2/</feedburner:origLink></item>
+		<item><title>Links for 2007-04-23 [del.icio.us]</title><link>http://feeds.feedburner.com/~r/funkablog/~3/111474175/funka7ron</link><pubDate>Tue, 24 Apr 2007 00:00:00 -0500</pubDate><guid isPermaLink="false">http://del.icio.us/funka7ron#2007-04-23</guid><content:encoded><![CDATA[<ul>
+<li><a href="http://www.sitepoint.com/blogs/2007/04/23/faster-php-apps-profile-your-code-with-xdebug/">Profile Your Code with Xdebug</a><br/>
+using xdebug and wincachegrind to get useful profiling info out of your php apps.</li>
+<li><a href="http://www.visualcomplexity.com/vc/">visualcomplexity.com | A visual exploration on mapping complex networks</a></li>
+</ul>]]></content:encoded><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.sitepoint.com/blogs/2007/04/23/faster-php-apps-profile-your-code-with-xdebug/"&gt;Profile Your Code with Xdebug&lt;/a&gt;&lt;br/&gt;
+using xdebug and wincachegrind to get useful profiling info out of your php apps.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.visualcomplexity.com/vc/"&gt;visualcomplexity.com | A visual exploration on mapping complex networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><feedburner:origLink>http://del.icio.us/funka7ron#2007-04-23</feedburner:origLink></item><item>
+		<title>Fun at ye olde train yard</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/111150124/</link>
+		<comments>http://blog.funkatron.com/archives/general/fun-at-ye-olde-train-yard/#comments</comments>
+		<pubDate>Mon, 23 Apr 2007 00:10:48 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<category><![CDATA[Design]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/194147.html</guid>
+		<description><![CDATA[Cole and I went down to the train yard today to take some shots.  These are my favs; the rest are on Flickr.
+
+(Yes, that&#8217;s the side of a freight car, torn open by something)
+
+
+]]></description>
+			<content:encoded><![CDATA[<p>Cole and I went down to the train yard today to take some shots.  These are my favs; the rest are on <a href="http://flickr.com/photos/funkatron/sets/72157600110684392/">Flickr</a>.</p>
+<p><a href="http://www.flickr.com/photos/funkatron/468978095/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/185/468978095_c87910d57d.jpg" width="500" height="334" alt="Train_cars-19.jpg" /></a></p>
+<p><a name="cutid1"></a><a href="http://www.flickr.com/photos/funkatron/468970931/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/195/468970931_67cc96797c.jpg" width="500" height="334" alt="Train_cars-13.jpg" /></a><br />(Yes, that&#8217;s the side of a freight car, torn open by something)</p>
+<p><a href="http://www.flickr.com/photos/funkatron/468963390/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/177/468963390_ea19ff445c.jpg" width="500" height="334" alt="Train_cars-18.jpg" /></a></p>
+<p><a href="http://www.flickr.com/photos/funkatron/468975635/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/167/468975635_41d00ddf28.jpg" width="334" height="500" alt="Train_cars-17.jpg" /></a></p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=is0VKrvL"><img src="http://feeds.feedburner.com/~f/funkablog?i=is0VKrvL" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=00dp0PNC"><img src="http://feeds.feedburner.com/~f/funkablog?i=00dp0PNC" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=Jqu4ig2A"><img src="http://feeds.feedburner.com/~f/funkablog?i=Jqu4ig2A" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=pAivuMju"><img src="http://feeds.feedburner.com/~f/funkablog?i=pAivuMju" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/fun-at-ye-olde-train-yard/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/fun-at-ye-olde-train-yard/</feedburner:origLink></item>
+		<item>
+		<title>Quote of the Day</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/111132856/</link>
+		<comments>http://blog.funkatron.com/archives/general/quote-of-the-day/#comments</comments>
+		<pubDate>Sun, 22 Apr 2007 22:38:05 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/193936.html</guid>
+		<description><![CDATA[&#8220;Ah, Hot Topic, no one can turn something uncool as quickly as you.&#8221; - Kotaku
+]]></description>
+			<content:encoded><![CDATA[<p>&#8220;Ah, Hot Topic, no one can turn something uncool as quickly as you.&#8221; - <a href="http://kotaku.com/gaming/t-shirt/girls-like-video-game-t+shirts-too-254353.php">Kotaku</a></p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=VWkO128F"><img src="http://feeds.feedburner.com/~f/funkablog?i=VWkO128F" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=nYkhmT2L"><img src="http://feeds.feedburner.com/~f/funkablog?i=nYkhmT2L" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=6SCtLA0n"><img src="http://feeds.feedburner.com/~f/funkablog?i=6SCtLA0n" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=MEJHZQkg"><img src="http://feeds.feedburner.com/~f/funkablog?i=MEJHZQkg" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/quote-of-the-day/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/quote-of-the-day/</feedburner:origLink></item>
+		<item>
+		<title>Making Light: Moderation isn't rocket science</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/111077156/</link>
+		<comments>http://blog.funkatron.com/archives/general/making-light-moderation-isnt-rocket-science/#comments</comments>
+		<pubDate>Sun, 22 Apr 2007 17:49:23 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<category><![CDATA[The Web Problem]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/193722.html</guid>
+		<description><![CDATA[Making Light: Moderation isn&#8217;t rocket science:
+&#60;/p&#62;
+
+If you have a weblog or live journal, or you administer a website that has comment threads, stand up for yourself and your readers. The jerks are never going to like you, or praise you, or admit that you’re doing the right thing. And if you’re waiting for someone to [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://nielsenhayden.com/makinglight/archives/008856.html#008856">Making Light: Moderation isn&#8217;t rocket science</a>:</p>
+<p>&lt;/p&gt;<br />
+<blockquote>
+<p>If you have a weblog or live journal, or you administer a website that has comment threads, stand up for yourself and your readers. The jerks are never going to like you, or praise you, or admit that you’re doing the right thing. And if you’re waiting for someone to give you permission to suppress and thereafter ignore malfeasants, you have it right now. If you want, I’ll make up a certificate. Go forth and civilize.</p>
+<p></p></blockquote>
+<p>(Via <a href="http://chuqui.typepad.com/">Chuqui</a>)</p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=qjnZ032Y"><img src="http://feeds.feedburner.com/~f/funkablog?i=qjnZ032Y" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=uBCc2yBR"><img src="http://feeds.feedburner.com/~f/funkablog?i=uBCc2yBR" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=JV0JGOp5"><img src="http://feeds.feedburner.com/~f/funkablog?i=JV0JGOp5" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=t0GME2QF"><img src="http://feeds.feedburner.com/~f/funkablog?i=t0GME2QF" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/making-light-moderation-isnt-rocket-science/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/making-light-moderation-isnt-rocket-science/</feedburner:origLink></item>
+		<item>
+		<title>Hey hey, look who's on Virb!</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110509542/</link>
+		<comments>http://blog.funkatron.com/archives/general/hey-hey-look-whos-on-virb/#comments</comments>
+		<pubDate>Fri, 20 Apr 2007 04:27:52 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/193406.html</guid>
+		<description><![CDATA[  
+
+
+
+
+
+Eat a dick, bitches.
+
+
+Oh, and look me up on Virb if you like.
+]]></description>
+			<content:encoded><![CDATA[<p>  </p>
+<table>
+<tr>
+<td><a href="http://pics.livejournal.com/funkatron/pic/00031fsr/g2"><img src="http://pics.livejournal.com/funkatron/pic/00031fsr/s640x480" alt="Hey hey, look who&#39;s on Virb!" height="425" width="640" border="0" /></a></td>
+</tr>
+<tr>
+<td>Eat a dick, bitches.</td>
+</tr>
+</table>
+<p>Oh, and <a href="http://virb.com/funkatron">look me up on Virb</a> if you like.</p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=e92S7NSx"><img src="http://feeds.feedburner.com/~f/funkablog?i=e92S7NSx" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=HY2n9YYY"><img src="http://feeds.feedburner.com/~f/funkablog?i=HY2n9YYY" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=3g8mw5UO"><img src="http://feeds.feedburner.com/~f/funkablog?i=3g8mw5UO" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=exsMz7wm"><img src="http://feeds.feedburner.com/~f/funkablog?i=exsMz7wm" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/hey-hey-look-whos-on-virb/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/hey-hey-look-whos-on-virb/</feedburner:origLink></item>
+		<item>
+		<title>The PHP App Insecurity Top 20</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153629/</link>
+		<comments>http://blog.funkatron.com/archives/general/the-php-app-insecurity-top-20/#comments</comments>
+		<pubDate>Wed, 18 Apr 2007 21:01:45 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<category><![CDATA[PHP]]></category>
+
+		<category><![CDATA[The Web Problem]]></category>
+
+		<category><![CDATA[InfoSec]]></category>
+
+		<guid isPermaLink="false">http://blog.funkatron.com/archives/general/the-php-app-insecurity-top-20/</guid>
+		<description><![CDATA[I&#8217;ve spent some of my down time in the past couple weeks working with the NIST NVD data to get stats on PHP application vulnerabilities.  What follows is a breakdown of the 20 PHP-based applications that had the highest aggregate vulnerability scores (NIST assigns a score from 1-10 for the severity of each entry), [...]]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve spent some of my down time in the past couple weeks working with the <a href="http://nvd.nist.gov">NIST NVD</a> data to get stats on PHP application vulnerabilities.  What follows is a breakdown of the 20 PHP-based applications that had the highest aggregate vulnerability scores (NIST assigns a score from 1-10 for the severity of each entry), and the highest total number of vulnerabilities, over the past 12 months.  Of the two, I feel that the aggregate score is a better indicator of security issues.</p>
+<p>A few caveats:</p>
+<ul>
+<li>The data here covers the period between April 1 2006 and April 1 2007.</li>
+<li>This obviously only includes <strong>reported</strong> vulnerabilities.  There are surely a lot more applications that are very insecure, but for one reason or another haven&#8217;t had as many reports.</li>
+<li>I chose 20 as the cutoff mainly for the sake of making the data a little easier to swallow (and chart nicely). There are about 1,800 distinct apps in the NIST NVD that are (as far as I could determine) PHP-based.</li>
+</ul>
+<p>Without further ado, here are the tepid Excel charts:</p>
+<p><a href="http://blog.funkatron.com/wp-content/php-top20-april-score.png"><img src="http://blog.funkatron.com/wp-content/_php-top20-april-score.png" alt="Nist NVD Data - April 1 2006 to April 1 2007 - PHP Apps by Score Count" title="" /></a></p>
+<p><a href="http://blog.funkatron.com/wp-content/php-top20-april-entries.png"><img src="http://blog.funkatron.com/wp-content/_php-top20-april-entries.png" alt="Nist NVD Data - April 1 2006 to April 1 2007 - PHP Apps by Entry Count" title="" /></a></p>
+<p>A couple notes:</p>
+<ul>
+<li>There are 25 entries in the top &#8220;20&#8221; by vulnerability count, due to matching vulnerability counts.</li>
+<li>I&#8217;d never even <strong>heard</strong> of <a href="http://www.mybboard.net/">MyBulletinBoard</a>, the top entry in both lists.  It hasn&#8217;t had any vulnerabilities in the NVD since September of 2006, which says something about how numerous and severe the entries between April and September 2006 were.  This appears to be the same product as &#8220;MyBB,&#8221; so perhaps the situation has improved, as MyBB only has one NVD entry in the entire period (<a href="http://nvd.nist.gov/nvd.cfm?cvename=CVE-2007-0544">CVE-2007-0544</a>).</li>
+<li>Wordpress has had a bad start to 2007, with numerous vulnerabilities that significantly increased its ranking.  March 2007 was particularly bad, with 7 new vulnerabilities reported.</li>
+<li>Bulletin board/forum software is by far the most common type of application in the top 20.  A couple forum apps that have very <strong>low</strong> numbers of vulnerability reports: <a href="http://getvanilla.com/">Vanilla</a> and <a href="http://fudforum.org/">FUDForum</a>.</li>
+</ul>
+<p>I do intend to keep this data up-to-date if people find it interesting, so let me know if you&#8217;d like me to do so, or if you&#8217;d like to see other types of analysis.</p>
+<div class="tags"><strong>Tags:</strong> <a href="http://technorati.com/tag/php" rel="tag">php</a>, <a href="http://technorati.com/tag/security" rel="tag"> security</a>, <a href="http://technorati.com/tag/application+security" rel="tag"> application security</a>, <a href="http://technorati.com/tag/vulnerabilities" rel="tag"> vulnerabilities</a>, <a href="http://technorati.com/tag/nist" rel="tag"> nist</a>, <a href="http://technorati.com/tag/nvd" rel="tag"> nvd</a>, <a href="http://technorati.com/tag/statistics" rel="tag"> statistics</a></div>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=3yGSu1dv"><img src="http://feeds.feedburner.com/~f/funkablog?i=3yGSu1dv" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=5y0TERJs"><img src="http://feeds.feedburner.com/~f/funkablog?i=5y0TERJs" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=ujIeYk3E"><img src="http://feeds.feedburner.com/~f/funkablog?i=ujIeYk3E" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=OYT7n8E4"><img src="http://feeds.feedburner.com/~f/funkablog?i=OYT7n8E4" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/the-php-app-insecurity-top-20/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/the-php-app-insecurity-top-20/</feedburner:origLink></item>
+		<item>
+		<title>And some perspective</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153630/</link>
+		<comments>http://blog.funkatron.com/archives/general/and-some-perspective/#comments</comments>
+		<pubDate>Mon, 16 Apr 2007 17:25:57 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/193100.html</guid>
+		<description><![CDATA[A close friend of mine lost his mom this weekend.  I bet he would have given a lot than what I lost, just to be with her for a little while longer.
+It&#8217;s just money.
+]]></description>
+			<content:encoded><![CDATA[<p>A close friend of mine lost his mom this weekend.  I bet he would have given a lot than what I lost, just to be with her for a little while longer.</p>
+<p>It&#8217;s just money.</p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=YhwCagtC"><img src="http://feeds.feedburner.com/~f/funkablog?i=YhwCagtC" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=CjzaHRdp"><img src="http://feeds.feedburner.com/~f/funkablog?i=CjzaHRdp" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=7L5TTyfG"><img src="http://feeds.feedburner.com/~f/funkablog?i=7L5TTyfG" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=IRknJiEM"><img src="http://feeds.feedburner.com/~f/funkablog?i=IRknJiEM" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/and-some-perspective/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/and-some-perspective/</feedburner:origLink></item>
+		<item>
+		<title>Poop poop poop!!!</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153631/</link>
+		<comments>http://blog.funkatron.com/archives/general/poop-poop-poop/#comments</comments>
+		<pubDate>Mon, 16 Apr 2007 17:16:10 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/192848.html</guid>
+		<description><![CDATA[So about a month and a half ago I turned on the ancient water softener in our basement, because we had tons of calcium deposits on our dishes.  I believe I had run it for a while when we first moved in, but gave after a bit because I thought it wasn&#8217;t worth the [...]]]></description>
+			<content:encoded><![CDATA[<p>So about a month and a half ago I turned on the ancient water softener in our basement, because we had tons of calcium deposits on our dishes.  I believe I had run it for a while when we first moved in, but gave after a bit because I thought it wasn&#8217;t worth the trouble of handling the salt and such.</p>
+<p>This morning, a guy from the water dept came to my door.  He was checking to see if the meter was messed up, or if we had a leak.</p>
+<p>Uh-oh.</p>
+<p>I turned off the softener.  The meter stopped spinning.  That was &#8220;the leak.&#8221;  I guess it just never shut itself off, so it was constantly running water through itself.  I actually noticed it seemed to run a lot, but I&#8217;m a total novice with this shit, and assumed it was okay.</p>
+<p>So I called the utility office, because I was concerned about what the bill might be.  For good reason.</p>
+<p>Apparently, in the month of march, we had used 115,000 gallons of water.</p>
+<p>That will be <strong>$683</strong>, please.</p>
+<p>And of course, since I didn&#8217;t turn it off until the middle of march, I&#8217;d expect another half that much to get tacked on for April.  That should kick us up over $1000.</p>
+<p>Coulda bought a new softener for that, and done other improvements we need.</p>
+<p>They&#8217;ll spread it over 6 months, which is nice.  I *could* pay it all now, but it wouldn&#8217;t be easy.</p>
+<p>I know, I know, it&#8217;s just money, but&#8230; dammit.  I was hoping we were getting ahead.  And now something stupid I did cost us a whole chunk of change.</p>
+<p>*frown*</p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=qOpbCQKQ"><img src="http://feeds.feedburner.com/~f/funkablog?i=qOpbCQKQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=tVflq5SZ"><img src="http://feeds.feedburner.com/~f/funkablog?i=tVflq5SZ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=vwvhHBbu"><img src="http://feeds.feedburner.com/~f/funkablog?i=vwvhHBbu" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=o5VueZk8"><img src="http://feeds.feedburner.com/~f/funkablog?i=o5VueZk8" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/poop-poop-poop/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/poop-poop-poop/</feedburner:origLink></item>
+		<item>
+		<title>Griffin Rocks!</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153632/</link>
+		<comments>http://blog.funkatron.com/archives/general/griffin-rocks/#comments</comments>
+		<pubDate>Sun, 15 Apr 2007 20:19:23 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/192537.html</guid>
+		<description><![CDATA[
+Lazy day at home, with my sweetie at work and Griffin at his Mom&#8217;s place, so I decided to edit together a little bit of footage I took of him the other day in iMovie.  Some corny effects, no doubt, but I thought it turned out pretty cool. 
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://funkatrondigital.com/external/videos/Griffin_Rocks.mp4"><img src="http://funkatrondigital.com/external/videos/Griffin_Rocks.png" border="1"></a></p>
+<p>Lazy day at home, with my sweetie at work and Griffin at his Mom&#8217;s place, so I decided to edit together a little bit of footage I took of him the other day in iMovie.  Some corny effects, no doubt, but I thought it turned out pretty cool. <img src='http://blog.funkatron.com/wp-includes/images/smilies/icon_cool.gif' alt='8)' class='wp-smiley' /></p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=cwjmk81d"><img src="http://feeds.feedburner.com/~f/funkablog?i=cwjmk81d" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=QhVYHxIp"><img src="http://feeds.feedburner.com/~f/funkablog?i=QhVYHxIp" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=5vwaiKm4"><img src="http://feeds.feedburner.com/~f/funkablog?i=5vwaiKm4" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=w5DsInK2"><img src="http://feeds.feedburner.com/~f/funkablog?i=w5DsInK2" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/griffin-rocks/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/griffin-rocks/</feedburner:origLink></item>
+		<item>
+		<title>What are your chances of getting audited by the IRS?</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153633/</link>
+		<comments>http://blog.funkatron.com/archives/general/what-are-your-chances-of-getting-audited-by-the-irs/#comments</comments>
+		<pubDate>Sun, 15 Apr 2007 20:03:59 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/192432.html</guid>
+		<description><![CDATA[From WiseBread: What are your chances of getting audited by the IRS? Your guess is probably wrong
+According to this Kiplinger&#8217;s tax tip video, only 1 in 150 personal tax returns get audited. Realistically speaking, your odds of getting audited are probably even lower than that. In fact, it&#8217;s virtually zero.
+The Kiplinger editor calls the taxpayer&#8217;s [...]]]></description>
+			<content:encoded><![CDATA[<p>From <a href="http://www.wisebread.com/">WiseBread</a>: <a href="http://www.wisebread.com/what-are-your-chances-of-getting-audited-by-the-irs-your-guess-is-probably-wrong">What are your chances of getting audited by the IRS? Your guess is probably wrong</a></p>
+<blockquote><p>According to <a href="http://video.msn.com/v/us/fv/money/fv.htm??g=0a730c1b-b4ab-4f5e-bdeb-141b9174a6c8&amp;t=&amp;f=15/64yourrealtaxrate40&amp;p=&amp;fg=">this Kiplinger&#8217;s tax tip video</a>, only 1 in 150 personal tax returns get audited. Realistically speaking, your odds of getting audited are probably even lower than that. In fact, it&#8217;s virtually zero.</p>
+<p>The Kiplinger editor calls the taxpayer&#8217;s fear of audits &#8216;very stupid.&#8217; He explains that you will not get audited as long as you don&#8217;t claim any insane tax deductions. Therefore, everyone should be aggressive and take advantage of all the available deductions within reason.</p>
+<p><b>Our irrational fear of audits</b></p>
+<p>One recent survey conducted by a CPA at Louisiana State University shows that the average taxpayers believe 1 in 7 people gets audited by the IRS. Over 80% of the people surveyed had unrealistically high expectations of getting audited.</p>
+<p>When the survey takes into consideration the likely income bracket of the participants, the results get even more ridiculous:</p></blockquote>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=FlRNy5Rq"><img src="http://feeds.feedburner.com/~f/funkablog?i=FlRNy5Rq" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=A74DP0sX"><img src="http://feeds.feedburner.com/~f/funkablog?i=A74DP0sX" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=GuPOTC2F"><img src="http://feeds.feedburner.com/~f/funkablog?i=GuPOTC2F" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=a0YRKdPq"><img src="http://feeds.feedburner.com/~f/funkablog?i=a0YRKdPq" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/what-are-your-chances-of-getting-audited-by-the-irs/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/what-are-your-chances-of-getting-audited-by-the-irs/</feedburner:origLink></item>
+		<item>
+		<title>Pretty Mouse</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153634/</link>
+		<comments>http://blog.funkatron.com/archives/general/pretty-mouse/#comments</comments>
+		<pubDate>Sun, 15 Apr 2007 04:08:44 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/192203.html</guid>
+		<description><![CDATA[     Pretty Mouse    Originally uploaded by funkatron. 
+I&#8217;m a mouse stickler, and I&#8217;m hearting this new puppy.  Picture turned out pretty well too.
+]]></description>
+			<content:encoded><![CDATA[<div style="float: right; margin-left: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/funkatron/459365631/" title="photo sharing"><img src="http://farm1.static.flickr.com/217/459365631_147f36baa4_m.jpg" alt="" style="border: solid 2px #000000;" /></a> <br /> <span style="font-size: 0.9em; margin-top: 0px;">  <a href="http://www.flickr.com/photos/funkatron/459365631/">Pretty Mouse</a>  <br />  Originally uploaded by <a href="http://www.flickr.com/people/funkatron/">funkatron</a>. </span></div>
+<p>I&#8217;m a mouse stickler, and I&#8217;m hearting this new puppy.  Picture turned out pretty well too.<br clear="all" /></p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=dRdu50cL"><img src="http://feeds.feedburner.com/~f/funkablog?i=dRdu50cL" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=0BXhb951"><img src="http://feeds.feedburner.com/~f/funkablog?i=0BXhb951" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=rauwYSaz"><img src="http://feeds.feedburner.com/~f/funkablog?i=rauwYSaz" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=mlbRHa8a"><img src="http://feeds.feedburner.com/~f/funkablog?i=mlbRHa8a" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/pretty-mouse/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/pretty-mouse/</feedburner:origLink></item>
+		<item>
+		<title>Screw Myspace, I'm down with Virb</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153635/</link>
+		<comments>http://blog.funkatron.com/archives/general/screw-myspace-im-down-with-virb/#comments</comments>
+		<pubDate>Thu, 12 Apr 2007 20:07:55 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/191999.html</guid>
+		<description><![CDATA[Since last post was a good Myspace trashing, I thought I&#8217;d mention a social network site I&#8217;ve been digging: Virb.  Here&#8217;s why I like it:
+
+It&#8217;s pretty and clean.  You&#8217;re not overwhelmed with information.  It&#8217;s *pleasant* to look at Virb.
+
+It&#8217;s easy to make basic changes to your profile, and you have full CSS [...]]]></description>
+			<content:encoded><![CDATA[<p>Since last post was a good Myspace trashing, I thought I&#8217;d mention a social network site I&#8217;ve been digging: <a href="http://virb.com">Virb</a>.  Here&#8217;s why I like it:</p>
+<ul>
+<li>It&#8217;s pretty and clean.  You&#8217;re not overwhelmed with information.  It&#8217;s *pleasant* to look at Virb.</li>
+<p>
+<li>It&#8217;s easy to make basic changes to your profile, and you have full CSS control if you want or need it.  I haven&#8217;t come across a site that handled &#8220;themeing&#8221; as well as Virb.</li>
+<p>
+<li>Virb clearly thought about how to organize your stuff, and it does a good job of letting you do so in an easy and logical manner</li>
+<p>
+<li>It&#8217;s easy to add new modules to your profile that can include more advanced html and embedded media.  Where your media can come from is whitelisted, which means <strong>better security</strong>; there&#8217;s much less chance of having your profile hijacked just by viewing someone else&#8217;s page</li>
+<p>
+<li>Embedding Flickr photos is SO easy.  Since I use Flickr for everything, it&#8217;s totally awesome.</li>
+<p>
+<li>If you&#8217;re into music, Virb does a good job of letting you check out tunes, add bands, keep track of their shows, and the like *without* all the shittiness of Myspace</li>
+<p>
+<li>It&#8217;s not flooded with ads and doesn&#8217;t make you log-in and &#8217;start over&#8217; unnecessarily</li>
+<p></ul>
+<p>So what don&#8217;t I like about Virb so much?</p>
+<ul>
+<li>I really really wish I could import data into my profile via RSS.  I already have 3 blogs (counting my work blog) &#8212; I have no interest in maintaining another.  If I could just have my blog entries imported into my Virb blog, it&#8217;d be perfect. (<strong>update:</strong> Virb has blog importing via RSS <a href="http://virb.com/is/new_features">listed as &#8220;Coming Soon&#8221;</a>)</li>
+<p>
+<li>Worse, no RSS feeds for my Virb blog!  This is a big missing piece, and I&#8217;m really surprised they don&#8217;t have this yet.  This bad boy should be filled with subscribable (is that a word?) data so you can track your friends, your bands&#8217; shows, and the like.</li>
+<p></ul>
+<p>So consider this an invitation:
+<ul>
+<li><a href="http://virb.com/funkatron">My personal Virb profile</a></li>
+<p>
+<li><a href="http://virb.com/cultofjester">Cult of Jester&#8217;s Virb profile</a></li>
+<p></ul>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=t7QZOawP"><img src="http://feeds.feedburner.com/~f/funkablog?i=t7QZOawP" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=ryz2paLw"><img src="http://feeds.feedburner.com/~f/funkablog?i=ryz2paLw" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=o1TKPsxf"><img src="http://feeds.feedburner.com/~f/funkablog?i=o1TKPsxf" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=ah84poeq"><img src="http://feeds.feedburner.com/~f/funkablog?i=ah84poeq" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/screw-myspace-im-down-with-virb/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/screw-myspace-im-down-with-virb/</feedburner:origLink></item>
+		<item>
+		<title>MySpace Sucks as a Social Tool</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153636/</link>
+		<comments>http://blog.funkatron.com/archives/general/myspace-sucks-as-a-social-tool/#comments</comments>
+		<pubDate>Wed, 11 Apr 2007 16:15:08 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/191537.html</guid>
+		<description><![CDATA[Marcys Whitney thinks MySpace Sucks as a Social Tool:
+So, I think MySpace sucks.  It sucks because it has absolutely no technically social qualities outside of itself aside from RSS and email, both of which are very limited and poorly implemented.  Wordpress on the other hand is an example of the Internet as an operation system [...]]]></description>
+			<content:encoded><![CDATA[<p>Marcys Whitney thinks <a href="http://www.marcuswhitney.com/2007/04/10/myspace-sucks-as-a-social-tool/">MySpace Sucks as a Social Tool</a>:<br />
+<blockquote>So, I think MySpace sucks.  It sucks because it has absolutely no technically social qualities outside of itself aside from RSS and email, both of which are very limited and poorly implemented.  Wordpress on the other hand is an example of the Internet as an operation system environment.  Do you think it sucks?  If so why, if not… I don’t think I care.</p>
+<p>It is a great user generated content web destination however.   So kudos to them for at least succeeding there</p></blockquote>
+<p>It&#8217;s very insular, indeed, which is why I&#8217;ve pretty much given up on it.  Plus the extremely obvious attempts to pump up ad view stats with crap like:</p>
+<p>- Letting me view some of a person&#8217;s profile while not logged-in<br />- Forcing me to log-in when I want to view, say, pictures<br />- Not returning me to where I was before I logged in, but forcing me to AGAIN navigate back to the person&#8217;s profile.</p>
+<p>Beyond lame.</p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=7svr7RJI"><img src="http://feeds.feedburner.com/~f/funkablog?i=7svr7RJI" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=Z5L9eIHu"><img src="http://feeds.feedburner.com/~f/funkablog?i=Z5L9eIHu" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=8plyhkod"><img src="http://feeds.feedburner.com/~f/funkablog?i=8plyhkod" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=aX69RIb8"><img src="http://feeds.feedburner.com/~f/funkablog?i=aX69RIb8" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/myspace-sucks-as-a-social-tool/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/myspace-sucks-as-a-social-tool/</feedburner:origLink></item>
+		<item>
+		<title>Buy Golgo 13 on Amazon</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153637/</link>
+		<comments>http://blog.funkatron.com/archives/general/buy-golgo-13-on-amazon/#comments</comments>
+		<pubDate>Tue, 10 Apr 2007 04:13:09 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://funkatron.livejournal.com/191480.html</guid>
+		<description><![CDATA[I happened to notice on my entry at discogs.com that there as a google ad for my album Golgo 13.  I clicked on it, and I found that people were selling my album on Amazon for $25 used and $30 new.
+This was stupid.
+So I added my own listing.  You can buy brand new, [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.amazon.com/Golgo-13-Cult-Jester/dp/B000LUOVHC/ref=sr_1_1/002-9242877-2444034?ie=UTF8&amp;s=music&amp;qid=1176174425&amp;sr=1-1" title="Cult of Jester - Golgo 13" target="_blank"><img src="http://ec1.images-amazon.com/images/G/01/ciu/ed/50/4412225b9da0e8c8759d1110._AA240_.L.jpg" alt="Golgo 13" align="Right"></a>I happened to notice on my entry at discogs.com that there as a google ad for my album <em>Golgo 13</em>.  I clicked on it, and I found that people were selling my album on Amazon for $25 used and $30 new.</p>
+<p>This was stupid.</p>
+<p>So I added my own listing.  You can <a href="http://www.amazon.com/Golgo-13-Cult-Jester/dp/B000LUOVHC/ref=sr_1_1/002-9242877-2444034?ie=UTF8&amp;s=music&amp;qid=1176174425&amp;sr=1-1" title="Cult of Jester - Golgo 13" target="_blank">buy <strong>brand new, still sealed</strong> copies of Golgo 13 from me via Amazon for <strong>$6 + s/h</strong></a>.</p>
+<p>If you want to hear samples, check out <a href="http://myspace.com/cultofjester" title="Cult of Jester on Myspace" target="_blank">the COJ Myspace page</a>.</p>
+<p>I intend to offer digital puchases sometime soon (DRM-free, of couse).  If you express interest, I&#8217;ll surely speed up the process. <img src='http://blog.funkatron.com/wp-includes/images/smilies/icon_cool.gif' alt='8)' class='wp-smiley' /></p>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=E364uHEw"><img src="http://feeds.feedburner.com/~f/funkablog?i=E364uHEw" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=WotBRDMD"><img src="http://feeds.feedburner.com/~f/funkablog?i=WotBRDMD" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=fczRVuFw"><img src="http://feeds.feedburner.com/~f/funkablog?i=fczRVuFw" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=yW0LBSZF"><img src="http://feeds.feedburner.com/~f/funkablog?i=yW0LBSZF" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/buy-golgo-13-on-amazon/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/buy-golgo-13-on-amazon/</feedburner:origLink></item>
+		<item>
+		<title>What's wrong with this job posting?</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153638/</link>
+		<comments>http://blog.funkatron.com/archives/general/whats-wrong-with-this-job-posting/#comments</comments>
+		<pubDate>Mon, 09 Apr 2007 20:51:09 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[General]]></category>
+
+		<category><![CDATA[The Web Problem]]></category>
+
+		<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://funkatron.com/wp/archives/general/whats-wrong-with-this-job-posting/</guid>
+		<description><![CDATA[Saw this on the excellent PHPDeveloper.org:
+Company	Warner Bros. Records
+Location	Burbank, CA
+Title	PHP Developer
+Summary	
+Warner Brothers Records is looking for a freelance PHP developer skilled in Drupal themeing and programming. To be considered you must be able to work at our office, provide your own computer and be very comfortable developing using SVN.
+You&#8217;ll be in New Media, a very relaxed [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/jlee43/244136188/"><img src="http://farm1.static.flickr.com/80/244136188_48881dce29_m.jpg" align="right" alt="I hate my job" /></a>Saw <a href="http://www.phpdeveloper.org/news/7586">this</a> on the excellent <a href="http://www.phpdeveloper.org">PHPDeveloper.org</a>:</p>
+<blockquote><p><strong>Company</strong>	Warner Bros. Records<br />
+<strong>Location</strong>	Burbank, CA<br />
+<strong>Title</strong>	PHP Developer<br />
+<strong>Summary	</strong><br />
+Warner Brothers Records is looking for a freelance PHP developer skilled in Drupal themeing and programming. To be considered you must be able to work at our office, <strong><em>provide your own computer</em></strong> and be very comfortable developing using SVN.</p>
+<p>You&#8217;ll be in New Media, a very relaxed work environment, with cool and quirky people. We prize Mac users but welcome all. This is a great chance to work with bands like Arctic Monkeys, White Stripes, Damien Rice, Muse and more.</p>
+<p>To apply please send an e-mail with the following to nmtech@warnerbrosrecords.com:</p>
+<ul>
+<li>PHP Developer and your full name in the Subject line.</li>
+<li>3 Links to actual code you have written and or sites worked on what you worked on.</li>
+<li>Tell us a little about yourself and send a link to your blog you have one.</li>
+</ul>
+</blockquote>
+<p>Lemme get this straight: I have to work at your office, but <em>provide my own computer???</em>  This reads like a really slimy way of getting people to work cheap in exchange for <em>maybe</em> doing a web site for some half-wit modern &#8220;rock&#8221; band.  I&#8217;ll keep my iMac at home and make more money doing contracting work, but thanks all the same, WB.</p>
+<div class="tags"><strong>Tags:</strong> <a href="http://technorati.com/tag/jobs" rel="tag">jobs</a>, <a href="http://technorati.com/tag/php" rel="tag"> php</a>, <a href="http://technorati.com/tag/riaa" rel="tag"> riaa</a></div>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=4G3Odhh8"><img src="http://feeds.feedburner.com/~f/funkablog?i=4G3Odhh8" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=sgVX0DEP"><img src="http://feeds.feedburner.com/~f/funkablog?i=sgVX0DEP" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=Jy3kpvxF"><img src="http://feeds.feedburner.com/~f/funkablog?i=Jy3kpvxF" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=oSUnTuE0"><img src="http://feeds.feedburner.com/~f/funkablog?i=oSUnTuE0" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/general/whats-wrong-with-this-job-posting/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/general/whats-wrong-with-this-job-posting/</feedburner:origLink></item>
+		<item>
+		<title>PHPSecInfo v0.2.1 now available</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153639/</link>
+		<comments>http://blog.funkatron.com/archives/php/phpsecinfo-v021-now-available/#comments</comments>
+		<pubDate>Fri, 06 Apr 2007 19:14:28 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[PHP]]></category>
+
+		<category><![CDATA[The Web Problem]]></category>
+
+		<category><![CDATA[InfoSec]]></category>
+
+		<category><![CDATA[My Projects]]></category>
+
+		<category><![CDATA[phpsecinfo]]></category>
+
+		<guid isPermaLink="false">http://funkatron.com/wp/archives/general/phpsecinfo-v021-now-available/</guid>
+		<description><![CDATA[PhpSecInfo v0.2.1 is now available.  It&#8217;s primarily a bugfix release, but a fairly significant one.  From the CHANGELOG:
+
+uid and gid tests now correctly test the user and group that PHP is executing as (requires that exec() or posix functions are enabled)
+Changed upload_max_filesize and post_max_size return &#8220;OK&#8221; if current value is equal to recommended [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://phpsecinfo.com">PhpSecInfo</a> v0.2.1 is now available.  It&#8217;s primarily a bugfix release, but a fairly significant one.  From the <a href="http://phpsec.org/projects/phpsecinfo/CHANGELOG">CHANGELOG</a>:</p>
+<ul>
+<li>uid and gid tests now correctly test the user and group that PHP is executing as (requires that <code>exec()</code> or <a href="http://us.php.net/posix">posix functions</a> are enabled)</li>
+<li>Changed upload_max_filesize and post_max_size return &#8220;OK&#8221; if current value is equal to recommended value</li>
+<li>fixed nonstandard naming with a couple locally used constants</li>
+<li>fixed problem with XHTML validity in cases of not run tests (thanks Thomas Corbiere)</li>
+</ul>
+<p>Get your security auditing on at <a href="http://phpsecinfo.com">phpsecinfo.com</a>.</p>
+<div class="tags"><strong>Tags:</strong> <a href="http://technorati.com/tag/phpsecinfo" rel="tag">phpsecinfo</a>, <a href="http://technorati.com/tag/uid" rel="tag"> uid</a>, <a href="http://technorati.com/tag/gid" rel="tag"> gid</a>, <a href="http://technorati.com/tag/php" rel="tag"> php</a>, <a href="http://technorati.com/tag/security" rel="tag"> security</a></div>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=NyU9WPhy"><img src="http://feeds.feedburner.com/~f/funkablog?i=NyU9WPhy" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=ikjWE2ZU"><img src="http://feeds.feedburner.com/~f/funkablog?i=ikjWE2ZU" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=8hi91JpW"><img src="http://feeds.feedburner.com/~f/funkablog?i=8hi91JpW" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=UUAbl3IV"><img src="http://feeds.feedburner.com/~f/funkablog?i=UUAbl3IV" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/php/phpsecinfo-v021-now-available/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/php/phpsecinfo-v021-now-available/</feedburner:origLink></item>
+		<item>
+		<title>Not going to OSCON this year</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153640/</link>
+		<comments>http://blog.funkatron.com/archives/php/not-going-to-oscon-this-year/#comments</comments>
+		<pubDate>Wed, 04 Apr 2007 23:25:59 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[PHP]]></category>
+
+		<category><![CDATA[My Projects]]></category>
+
+		<category><![CDATA[phpsecinfo]]></category>
+
+		<guid isPermaLink="false">http://funkatron.com/wp/archives/php/not-going-to-oscon-this-year/</guid>
+		<description><![CDATA[I&#8217;m pretty bummed: I won&#8217;t be able to go to OSCON this year.  I got the standard rejection letter for my talk proposal on PHPSecInfo.  It&#8217;s kind of frustrating, not just because this means there&#8217;s no way I can go (I can&#8217;t afford to send myself, and it&#8217;s not in the work budget), [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://funkatron.com/wp/wp-content/uploads/ffsc-pouting-child.jpg" border="0" height="180" width="260" alt="FFSC_Pouting-child.jpg" align="right" />I&#8217;m pretty bummed: I won&#8217;t be able to go to OSCON this year.  I got the standard rejection letter for my talk proposal on <a href="http://PhpSecInfo.com/">PHPSecInfo</a>.  It&#8217;s kind of frustrating, not just because this means there&#8217;s no way I can go (I can&#8217;t afford to send myself, and it&#8217;s not in the work budget), but because there&#8217;s no feedback given at all.  I understand why they don&#8217;t, but I wish I knew more about why I didn&#8217;t make the cut.</p>
+<p>Phooey.</p>
+<div class="tags"><strong>Tags:</strong> <a href="http://technorati.com/tag/OSCON" rel="tag">OSCON</a>, <a href="http://technorati.com/tag/phpsecinfo" rel="tag"> phpsecinfo</a>, <a href="http://technorati.com/tag/conferences" rel="tag"> conferences</a>, <a href="http://technorati.com/tag/poop" rel="tag"> poop</a></div>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=M6jTJV4g"><img src="http://feeds.feedburner.com/~f/funkablog?i=M6jTJV4g" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=TQqOcZE8"><img src="http://feeds.feedburner.com/~f/funkablog?i=TQqOcZE8" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=741sTFc5"><img src="http://feeds.feedburner.com/~f/funkablog?i=741sTFc5" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=XwK68TfY"><img src="http://feeds.feedburner.com/~f/funkablog?i=XwK68TfY" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/php/not-going-to-oscon-this-year/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/php/not-going-to-oscon-this-year/</feedburner:origLink></item>
+		<item>
+		<title>I heart PostgreSQL</title>
+		<link>http://feeds.feedburner.com/~r/funkablog/~3/110153641/</link>
+		<comments>http://blog.funkatron.com/archives/the-web-problem/i-heart-postgresql/#comments</comments>
+		<pubDate>Mon, 02 Apr 2007 13:39:03 +0000</pubDate>
+		<dc:creator>Ed</dc:creator>
+		
+		<category><![CDATA[The Web Problem]]></category>
+
+		<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://funkatron.com/wp/archives/the-web-problem/i-heart-postgresql/</guid>
+		<description><![CDATA[I didn&#8217;t see this until today, since it went out the PostgreSQL newsletter which goes to my work account, but I thought it was pretty funny for an April Fool&#8217;s gag:
+
+PostgreSQL 10.0, now called PREGRES, was released today.  Some new features include:
+[&#8230;]
+- A new table type: PgISAM.  Rather than using the cumbersome and [...]]]></description>
+			<content:encoded><![CDATA[<p>I didn&#8217;t see this until today, since it went out the PostgreSQL newsletter which goes to my work account, but I thought it was pretty funny for an April Fool&#8217;s gag:</p>
+<blockquote><p>
+PostgreSQL 10.0, now called PREGRES, was released today.  Some new features include:<br />
+[&#8230;]<br />
+- A new table type: PgISAM.  Rather than using the cumbersome and complicated MVCC model, it simply acquires global database locks on read and write.  &#8220;It took ten years to create a benchmark that would make this one look good,&#8221; said Peter Eisentraut, in explanation for the delay. </p></blockquote>
+<p>Zing!</p>
+<div class="tags"><strong>Tags:</strong> <a href="http://technorati.com/tag/postgresql" rel="tag">postgresql</a>, <a href="http://technorati.com/tag/mysql" rel="tag"> mysql</a>, <a href="http://technorati.com/tag/humor" rel="tag"> humor</a>, <a href="http://technorati.com/tag/myisam" rel="tag"> myisam</a>, <a href="http://technorati.com/tag/performance" rel="tag"> performance</a>, <a href="http://technorati.com/tag/april+fools" rel="tag"> april fools</a>, <a href="http://technorati.com/tag/zing" rel="tag"> zing</a></div>
+
+<div class="feedflare"><a href="http://feeds.feedburner.com/~f/funkablog?a=jHgdHBGk"><img src="http://feeds.feedburner.com/~f/funkablog?i=jHgdHBGk" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=Iq6wWVd6"><img src="http://feeds.feedburner.com/~f/funkablog?i=Iq6wWVd6" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=gNa0iFxy"><img src="http://feeds.feedburner.com/~f/funkablog?i=gNa0iFxy" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/funkablog?a=6wLgr4DO"><img src="http://feeds.feedburner.com/~f/funkablog?i=6wLgr4DO" border="0"></img></a></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.funkatron.com/archives/the-web-problem/i-heart-postgresql/feed/</wfw:commentRss>
+		<feedburner:origLink>http://blog.funkatron.com/archives/the-web-problem/i-heart-postgresql/</feedburner:origLink></item>
+	<lastBuildDate>Thu, 03 May 2007 00:00:00 -0500</lastBuildDate></channel>
+</rss>
